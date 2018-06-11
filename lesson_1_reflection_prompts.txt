@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+I don't know
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
